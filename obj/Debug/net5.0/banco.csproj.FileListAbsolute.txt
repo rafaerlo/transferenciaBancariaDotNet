@@ -1,0 +1,16 @@
+C:\Users\Coletivo 3D\Downloads\banco\bin\Debug\net5.0\banco.exe
+C:\Users\Coletivo 3D\Downloads\banco\bin\Debug\net5.0\banco.deps.json
+C:\Users\Coletivo 3D\Downloads\banco\bin\Debug\net5.0\banco.runtimeconfig.json
+C:\Users\Coletivo 3D\Downloads\banco\bin\Debug\net5.0\banco.runtimeconfig.dev.json
+C:\Users\Coletivo 3D\Downloads\banco\bin\Debug\net5.0\banco.dll
+C:\Users\Coletivo 3D\Downloads\banco\bin\Debug\net5.0\ref\banco.dll
+C:\Users\Coletivo 3D\Downloads\banco\bin\Debug\net5.0\banco.pdb
+C:\Users\Coletivo 3D\Downloads\banco\obj\Debug\net5.0\banco.csproj.AssemblyReference.cache
+C:\Users\Coletivo 3D\Downloads\banco\obj\Debug\net5.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coletivo 3D\Downloads\banco\obj\Debug\net5.0\banco.AssemblyInfoInputs.cache
+C:\Users\Coletivo 3D\Downloads\banco\obj\Debug\net5.0\banco.AssemblyInfo.cs
+C:\Users\Coletivo 3D\Downloads\banco\obj\Debug\net5.0\banco.csproj.CoreCompileInputs.cache
+C:\Users\Coletivo 3D\Downloads\banco\obj\Debug\net5.0\banco.dll
+C:\Users\Coletivo 3D\Downloads\banco\obj\Debug\net5.0\ref\banco.dll
+C:\Users\Coletivo 3D\Downloads\banco\obj\Debug\net5.0\banco.pdb
+C:\Users\Coletivo 3D\Downloads\banco\obj\Debug\net5.0\banco.genruntimeconfig.cache
